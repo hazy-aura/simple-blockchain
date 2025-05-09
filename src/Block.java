@@ -10,5 +10,5 @@ public class Block {
         this.prevHash = prevHash;
         this.timeStamp = new Date().getTime();
     }
-
+    
 }
